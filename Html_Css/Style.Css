@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: rgb(28, 54, 225);
+    text-align: right;
+}
+h2{
+    color: aqua;
+    text-align:left ;
+}
+h3{ 
+    color: brown;
+    text-align:center ;
+}
+h4{ 
+    color: blueviolet;
+    text-align: end;
+}
+h5{ 
+    color: chartreuse;
+    text-align: inherit;
+}
+h6{ 
+    color: darkorange;
+    text-align: unset;
+}
+p{ 
+    color: red;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+
+
