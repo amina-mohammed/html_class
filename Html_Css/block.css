@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(255, 77, 0);
+}
+h1{
+    text-align: center;
+    color: rgb(174, 255, 0);
+}
+.image{
+    align-content: center;
+}
+
+.recipe{
+    color: purple;
+    text-align:center ;
+}
+.ingredient{
+    
+color:blueviolet;
+text-align:right;
+
+}
+
+.procedure{
+    color: brown;
+    text-align:left ;
+}
+
+
